@@ -1,0 +1,104 @@
+
+
+.contenedor {
+    text-align: center;
+    padding: 2%;
+    background: rgb(121, 134, 121);
+    border-radius: 3%;
+    margin: auto;
+width: 250px;
+height: 270px;
+
+}
+
+    .act {
+        float: left;
+        width: 96%;
+        margin-top: 6px;
+        margin-bottom: 6px;
+
+     
+
+    }
+    .button1 {
+        font-size: 17px;
+        
+        border-radius: 5px;
+        border: none;
+        color: white;
+        background-color: rgb(15, 44, 107);
+        cursor: pointer;
+       
+    }
+
+
+    .button {
+        font-size: 17px;
+        
+        border-radius: 5px;
+        border: none;
+        color: white;
+        background-color: rgb(15, 44, 107);
+        cursor: pointer;
+        padding: 2%;
+       
+        height: 100%;
+        
+    }
+    .button2{
+        font-size: 17px;
+        
+        border-radius: 5px;
+        border: none;
+        color: white;
+        background-color: rgb(15, 44, 107);
+        cursor: pointer;
+        height: 50%;
+        padding: 2%;
+        
+       
+          
+    }
+    .button2:hover{
+        background-color: rgba(4, 69, 20, 0.45);
+    }
+  
+    .button:hover{
+        background-color: rgba(4, 69, 20, 0.45);
+    }
+    .button1:hover{
+        background-color: rgba(4, 69, 20, 0.45);
+    }
+
+    .error {
+        color: red;
+        text-shadow: 1px 1px 2px rgba(255, 0, 0, 0.664);
+    }
+
+   
+
+    .countriesSelected {
+    
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        margin-right: 10%;
+        margin-left: 25%;
+
+  
+    }
+   .duration{
+    margin-left: -15px;
+   }
+    .label{
+        margin-left: -230px;
+    }
+    .label1{
+        margin-left: -230px;
+    }
+    .lu{
+       display: inline-flex;
+    }
+   
+   .diffi{
+    margin-left: -15px;
+   }
+

@@ -1,0 +1,29 @@
+.div{
+    margin-left:2rem;
+    margin-top: 100px;
+    flex-wrap: wrap;
+    width: auto;
+    height: -1rem;
+    
+}
+
+
+.btn{
+    background-color: #599ae3; 
+    border: none;
+    color: rgb(9, 8, 8);
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration:dotted;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 10%;
+    
+    
+
+
+}
+.btn:hover{
+    background-color: #1a4d63;
+
+}

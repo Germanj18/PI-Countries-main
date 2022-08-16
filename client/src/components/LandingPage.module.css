@@ -1,0 +1,43 @@
+
+.div{
+ 
+  
+  
+  font-family: 'I LOVE INDONESIA';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 80px;
+  /* identical to box height */
+  
+  letter-spacing: 0.03em;
+  
+  color: #e7f8ff;;
+}
+
+.btn{
+    
+   
+    padding: 5px 5px;
+    text-align: center;
+   
+    display: inline-block;
+ 
+    width: 50px;
+    margin-top: 200px;
+}
+.boton{
+    background-color:#1b6792; 
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+
+
